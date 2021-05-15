@@ -1,6 +1,8 @@
 # deploy-smart-contract-truffle
 Deploy Smart Contract in using Truffle framework in local blockchain.
 
+1. [Truffle package](https://www.npmjs.com/package/truffle)
+2. [Solidity](https://solidity.readthedocs.io/en/v0.5.6/)
 
 1. Install truffle 
 
